@@ -47,8 +47,7 @@ Get the latest version from the [Releases Page](https://github.com/RbnGame/RbnDe
 
 | Dashboard | Windows Deploy |
 |:---:|:---:|
-| *(<img width="1162" height="1046" alt="dashboard" src="https://github.com/user-attachments/assets/c4b68a21-8e3d-4e3e-8704-896da58bcc37" />)* | *(<img width="1161" height="1049" alt="deploy" src="https://github.com/user-attachments/assets/4dc6c6e5-a59a-448a-922f-74b2e2831cd4" />
-)* |
+| <img width="1162" height="1046" alt="dashboard" src="https://github.com/user-attachments/assets/c4b68a21-8e3d-4e3e-8704-896da58bcc37" /> | <img width="1161" height="1049" alt="deploy" src="https://github.com/user-attachments/assets/4dc6c6e5-a59a-448a-922f-74b2e2831cd4" />|
 
 ---
 
