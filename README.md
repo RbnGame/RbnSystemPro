@@ -2,7 +2,8 @@
 
 **The Ultimate Windows Post-Installation & Optimization Tool**
 
-![RbnSystemPro Banner](https://via.placeholder.com/1200x400?text=RbnSystemPro+Dashboard+Screenshot)
+<img width="2064" height="864" alt="image-1" src="https://github.com/user-attachments/assets/8407a88a-5935-46b7-98d9-9d382022b45f" />
+
 
 ## 📖 Overview
 RbnSystemPro is a modern, all-in-one utility designed to streamline the post-installation process for Windows. Whether you've just formatted your PC or want to optimize an existing system, RbnSystemPro automates hardware analysis, driver installation, software deployment, and system cleaning with a single click.
